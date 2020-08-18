@@ -12,11 +12,9 @@
 
 </p>
 
-This simple guide will help you to set up Storybook with Next, Typescript, SCSS and Jest.
+This simple guide will help you to set up `Storybook`, `Next`, `Typescript`, `SCSS` and `Jest`.
 
-You can find the full tutorial on ➡️ [Medium](https://medium.com/@trinwin/2020-complete-setup-for-storybook-nextjs-typescript-scss-and-jest-1c9ce41e6481)
-
-Tutorial on dev.to is coming soon. ⏰
+You can find the full tutorial on [Medium](https://medium.com/@trinwin/2020-complete-setup-for-storybook-nextjs-typescript-scss-and-jest-1c9ce41e6481) 📕  or [DEV.to](https://dev.to/trinwin/2020-complete-setup-for-storybook-nextjs-typescript-scss-and-jest-4khm)
 
 ## ✅ Getting Started
 
@@ -56,4 +54,5 @@ yarn test
 
 - [Twitter](https://twitter.com/_trinwin)
 - [Medium](https://medium.com/@trinwin)
+- [DEV.to](https://dev.to/trinwin)
 - [LinkedIn](https://www.linkedin.com/in/trinwin)
