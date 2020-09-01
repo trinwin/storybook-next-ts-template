@@ -1,5 +1,5 @@
 #
-
+ 
 <h2 align="center">Template for Storybook, Next, Typescript, SCSS and Jest</h2>
 
 <p align="center">
